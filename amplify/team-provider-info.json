@@ -10,6 +10,11 @@
       "StackName": "amplify-newaws-dev-173820",
       "StackId": "arn:aws:cloudformation:us-east-2:769407454399:stack/amplify-newaws-dev-173820/82a19b60-7469-11ec-98ce-0a8fa27038fe",
       "AmplifyAppId": "d3tmorufpzng7g"
+    },
+    "categories": {
+      "auth": {
+        "newaws751ad2d9": {}
+      }
     }
   }
 }
